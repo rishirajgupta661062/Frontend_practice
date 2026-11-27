@@ -1,17 +1,5 @@
 # Frontend Practice
 
-HTML and CSS practice exercises and early drafts.
+Workspace root for frontend practice and projects.
 
-## Structure
-
-```text
-Frontend_practice/
-├── practice/
-│   ├── 1.html              # Basic HTML page exercise
-│   ├── to.html             # HTML tags, attributes, and styling notes
-│   └── mkg-paintcare.html  # Early draft of painting services site
-├── .gitignore
-└── README.md
-```
-
-> Note: The main Gupta Painting Contractors website is in `gupta_paint/` (tracked in its own repository).
+The **Gupta Painting Contractors** website (with `frontend/` and `backend/` structure) is maintained in `gupta_paint/` under its own Git repository.
