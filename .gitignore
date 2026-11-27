@@ -1,0 +1,6 @@
+# Separate Git repository for the Gupta Painting Contractors website
+gupta_paint/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
